@@ -1,25 +1,23 @@
 # SAKSHAM TECH EDUCATION SCHOLARHSIP
 
-The SAKSHAM TECH EDUCATION SCHOLARSHIP project introduces an online platform to streamline the scholarship process, benefiting both students and the Scholarship department. It eliminates the need for physical visits, saves time, and provides a user-friendly interface with helpful warnings and alerts.
-
 ## INTRODUCTION :
 
 - The SAKSHAM TECH EDUCATION SCHOLARSHIP aims to support underprivileged students in their higher studies.
 - It provides an online platform for checking scholarship entrance test results, entrance ranks, eligibility for college selection, and college allotment results.
 - The admin has control over functions like declaring entrance test results, managing the college selection portal, and releasing college allotment results.
 
-# THE PROBLEM :
+## THE PROBLEM :
 
 - The previous process involved offline release of entrance test results and physical college selection and allotment processes.
 - Students had to visit the Scholarship department office repeatedly, leading to time-consuming and risky situations, especially during a pandemic.
 
-# THE SOLUTION  :
+## THE SOLUTION  :
 - The project offers an online solution for the entire scholarship process.
 - The Scholarship department can release entrance results, conduct college selection, and declare allotment results online.
 - Students can check their results, ranks, eligibility, and participate in the college selection process from home.
 - The project saves time, money, and simplifies the entire scholarship process.
 
- # USER INTERFACE :
+ ## USER INTERFACE :
 - The software has a user-friendly interface.
 - It provides warnings and alerts to guide users and indicate incorrect inputs.
 
@@ -32,6 +30,12 @@ The SAKSHAM TECH EDUCATION SCHOLARSHIP project introduces an online platform to 
 - Object-oriented programming
 - File handling
 
+## TOOLS REQUIREMENTS :
+
+1. Apache NetBeans IDE 
+2. Eclipse IDE 
+3. VISUAL STUDIO CODE [ IDE ]
+Etc. and other IDEs we can use.
 
 ## RESULTS : 
 
