@@ -119,4 +119,6 @@ https://github.com/Saksham-Gupta-24
 
 If you have any difficulties or feedback, please don't hesitate to contact me. 
 
-You can reach me at guptasaksham938@gmail.com. I'm here to assist you and address any concerns you may have.
+You can reach me at https://www.linkedin.com/in/saksham-gupta24/ or mail me on guptasaksham938@gmail.com. 
+
+I'm here to assist you and address any concerns you may have.
